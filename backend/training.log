@@ -1,0 +1,36 @@
+2024-08-26 18:13:18,496 - INFO - Loaded pre-trained model 'en_core_web_sm'.
+2024-08-26 18:13:18,496 - INFO - 'ner' component already exists in the pipeline.
+2024-08-26 18:13:18,505 - INFO - Added label 'B-PER' to the NER component.
+2024-08-26 18:13:18,562 - INFO - Added vocab lookups: lexeme_norm
+2024-08-26 18:13:18,562 - INFO - Created vocabulary
+2024-08-26 18:13:18,562 - INFO - Finished initializing nlp object
+2024-08-26 18:13:18,721 - INFO - Starting training...
+2024-08-27 07:47:06,457 - INFO - Loaded pre-trained model 'en_core_web_sm'.
+2024-08-27 07:47:06,457 - INFO - 'ner' component already exists in the pipeline.
+2024-08-27 07:47:06,468 - INFO - Added label 'B-PER' to the NER component.
+2024-08-27 07:47:06,529 - INFO - Added vocab lookups: lexeme_norm
+2024-08-27 07:47:06,529 - INFO - Created vocabulary
+2024-08-27 07:47:06,529 - INFO - Finished initializing nlp object
+2024-08-27 07:47:06,718 - INFO - Starting training...
+2024-08-27 07:47:47,365 - INFO - Loaded pre-trained model 'en_core_web_sm'.
+2024-08-27 07:47:47,365 - INFO - 'ner' component already exists in the pipeline.
+2024-08-27 07:47:47,373 - INFO - Added label 'B-PER' to the NER component.
+2024-08-27 07:47:47,424 - INFO - Added vocab lookups: lexeme_norm
+2024-08-27 07:47:47,424 - INFO - Created vocabulary
+2024-08-27 07:47:47,424 - INFO - Finished initializing nlp object
+2024-08-27 07:47:47,571 - INFO - Starting training...
+2024-08-27 07:56:34,786 - INFO - Epoch 1 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 65.60474769778061}
+2024-08-27 08:05:02,782 - INFO - Epoch 2 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 33.51543166472179}
+2024-08-27 08:13:58,068 - INFO - Epoch 3 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 29.526552933780362}
+2024-08-27 08:23:46,700 - INFO - Epoch 4 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 29.219739576875142}
+2024-08-27 08:33:48,544 - INFO - Epoch 5 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 18.32497536488249}
+2024-08-27 08:43:51,786 - INFO - Epoch 6 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 22.305178637054045}
+2024-08-27 08:53:51,328 - INFO - Epoch 7 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 18.174958110672762}
+2024-08-27 09:03:48,241 - INFO - Epoch 8 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 8.311253622426246}
+2024-08-27 09:13:11,554 - INFO - Epoch 9 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 21.063716079545895}
+2024-08-27 09:23:10,285 - INFO - Epoch 10 - Losses: {'tok2vec': 0.0, 'tagger': 0.0, 'parser': 0.0, 'ner': 24.766828231894124}
+2024-08-27 09:23:10,708 - INFO - Model training complete and saved as 'trained_ner_model'.
+2024-08-27 09:23:12,193 - INFO - Entity found: went - B-PER
+2024-08-27 09:23:12,193 - INFO - Entity found: to - B-PER
+2024-08-27 09:23:12,193 - INFO - Entity found: the - B-PER
+2024-08-27 09:23:12,193 - INFO - Entity found: . - B-PER
