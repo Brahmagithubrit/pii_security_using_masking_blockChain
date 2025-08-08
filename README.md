@@ -24,7 +24,7 @@ A lightweight tool that takes a PDF as input, extracts its text, and masks sensi
    ```bash
    git clone <repo-url>
    cd <repo-folder>
-````
+
 
 2. **Create and activate a virtual environment**
 
